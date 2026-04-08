@@ -46,3 +46,11 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
    - Scripts en Python
    - Pruebas automatizadas con Selenium
    - Ejercicios prácticos
+
+🚀 En constante aprendizaje
+
+   Actualmente estoy enfocado en:
+
+   - Automatización de pruebas con Python
+   - Buenas prácticas de testing
+   - Mejora continua en QA
