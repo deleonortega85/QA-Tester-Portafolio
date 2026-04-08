@@ -37,5 +37,5 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
    - Mejora continua en QA
 
 📫 Contacto
-   - GitHub: (agrega aquí tu link)
-   - LinkedIn: (agrega aquí tu perfil)
+   - GitHub: https://github.com/deleonortega85/QA-Tester-Portafolio
+   - LinkedIn: https://www.linkedin.com/in/daniel-emilio-le%C3%B3n-ortega-1a6a4b144/
