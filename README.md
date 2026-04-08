@@ -35,3 +35,7 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
    - Automatización de pruebas con Python
    - Buenas prácticas de testing
    - Mejora continua en QA
+
+📫 Contacto
+   - GitHub: (agrega aquí tu link)
+   - LinkedIn: (agrega aquí tu perfil)
