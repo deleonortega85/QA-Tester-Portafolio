@@ -30,7 +30,7 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
 
 📂 Estructura del Portafolio
 
-   📁 Manual Testing
+   📁 Manual-Testing
 
    Incluye proyectos enfocados en pruebas manuales:
 
@@ -39,7 +39,7 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
    - Reportes de bugs
    - Escenarios de prueba reales (ej: Login)
 
-📁 Automation Testing
+📁 Automation-Testing
 
    Incluye proyectos en desarrollo relacionados con automatización:
 
