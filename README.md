@@ -28,25 +28,6 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
  - Fundamentos de testing automatizado
  - Preparación para pruebas de APIs
 
-📂 Estructura del Portafolio
-
-   📁 Manual-Testing
-
-   Incluye proyectos enfocados en pruebas manuales:
-
-   - Planes de prueba
-   - Casos de prueba
-   - Reportes de bugs
-   - Escenarios de prueba reales (ej: Login)
-
-📁 Automation-Testing
-
-   Incluye proyectos en desarrollo relacionados con automatización:
-
-   - Scripts en Python
-   - Pruebas automatizadas con Selenium
-   - Ejercicios prácticos
-
 🚀 En constante aprendizaje
 
    Actualmente estoy enfocado en:
