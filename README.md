@@ -2,10 +2,12 @@
 
 👨‍💻 Sobre mí
 
-Soy QA Tester enfocado en pruebas manuales, apasionado por la calidad y la atención al detalle. Este portafolio muestra mi trabajo en un proyecto de pruebas funcionales para una agencia de autos, donde apliqué mis conocimientos en:
+Soy un QA Tester de software, apasionado por la calidad y la atención al detalle. Este portafolio muestra mi trabajo en un proyecto de pruebas funcionales para una agencia de autos, donde apliqué mis conocimientos en:
+
 - Diseño y ejecución de casos de prueba
 - Reporte de bugs con evidencia
 - Pruebas funcionales y de interfaz
+- Metodologías ágiles (Scrum)
 
 Actualmente me encuentro en proceso de formación en automatización de pruebas con Python, con el objetivo de evolucionar hacia un perfil QA Automation.
 
