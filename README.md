@@ -15,7 +15,7 @@ Actualmente me encuentro en proceso de formación en automatización de pruebas 
 
 Busco una oportunidad como QA Tester donde pueda aportar en la calidad del software mediante pruebas funcionales, detección de errores y mejora continua, mientras desarrollo mis habilidades en automatización.
 
-## 📁 Estructura del Portafolio
+## 📁 Estructura del Portafolio (Manual-Testing)
 
 - Plan de Pruebas
 - Casos de Prueba
