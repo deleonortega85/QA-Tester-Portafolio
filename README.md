@@ -28,6 +28,15 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
 - **Reporte de bugs**: Documentación estructurada + capturas
 - **Almacenamiento**: Google Drive para evidencias
 
+## 🛠️ Habilidades Blandas
+
+- Comunicación Asertiva.
+- Pensamiento Crítico.
+- Empatía con el Usuario.
+- Atención al Detalle y Adaptabilidad al Cambio.
+
+Estas competencias permiten gestionar conflictos, trabajar en equipo, organizar el tiempo y asegurar la calidad del software con una perspectiva orientada a soluciones.
+
 ## 🛠️ Habilidades Técnicas
 
 ✅ QA Manual
