@@ -1,4 +1,4 @@
-#🧪 QA TESTER PORTAFOLIO - DANIEL EMILIO LEÓN ORTEGA.
+## 🧪 QA TESTER PORTAFOLIO - DANIEL EMILIO LEÓN ORTEGA.
 
 ## 👋 Sobre mí
 
@@ -11,7 +11,7 @@ Soy un QA Tester de software, apasionado por la calidad y la atención al detall
 
 Actualmente me encuentro en proceso de formación en automatización de pruebas con Python, con el objetivo de evolucionar hacia un perfil QA Automation.
 
-##🎯 Objetivo Profesional
+## 🎯 Objetivo Profesional
 
 Busco una oportunidad como QA Tester donde pueda aportar en la calidad del software mediante pruebas funcionales, detección de errores y mejora continua, mientras desarrollo mis habilidades en automatización.
 
