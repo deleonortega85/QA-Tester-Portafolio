@@ -22,6 +22,12 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
 - Reportes de bugs
 - Resumen de ejecución
 
+## 🛠 Herramientas utilizadas
+
+- **Gestión de pruebas**: Excel / Google Sheets
+- **Reporte de bugs**: Documentación estructurada + capturas
+- **Almacenamiento**: Google Drive para evidencias
+
 🛠️ Habilidades Técnicas
 
 ✅ QA Manual
