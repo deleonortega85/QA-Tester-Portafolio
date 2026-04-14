@@ -28,7 +28,7 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
 - **Reporte de bugs**: Documentación estructurada + capturas
 - **Almacenamiento**: Google Drive para evidencias
 
-##🛠️ Habilidades Técnicas
+## 🛠️ Habilidades Técnicas
 
 ✅ QA Manual
  - Diseño de Casos de Prueba
