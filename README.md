@@ -22,6 +22,8 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
 - Reportes de bugs
 - Resumen de Ejecución
 
+## 📁 Estructura del Portafolio (Automation-Testing)
+
 ## 🛠 Herramientas utilizadas
 
 - **Gestión de pruebas**: Excel / Google Sheets
