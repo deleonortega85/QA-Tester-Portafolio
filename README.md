@@ -35,7 +35,8 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
 - Comunicación Asertiva.
 - Pensamiento Crítico.
 - Empatía con el Usuario.
-- Atención al Detalle y Adaptabilidad al Cambio.
+- Atención al Detalle.
+- Adaptabilidad al Cambio.
 
 Estas competencias permiten gestionar conflictos, trabajar en equipo, organizar el tiempo y asegurar la calidad del software con una perspectiva orientada a soluciones.
 
