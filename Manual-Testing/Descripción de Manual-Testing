@@ -1,6 +1,6 @@
 MANUAL-TESTING
 
-En esta carpeta contiene archivos que corresponde a cada ítem de un tester manual, los mismos son:
+En esta carpeta contiene archivos que corresponde a cada ítem de un tester manual, sea en los formatos .md o .xlsx, los mismos son:
 
 - Plan de Pruebas
 - Casos de Pruebas
