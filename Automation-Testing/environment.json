@@ -1,0 +1,16 @@
+{
+  "id": "bcde15aa-103a-4fb1-bb27-1f2c95c69555",
+  "name": "Biblioteca Environment",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://restful-booker.herokuapp.com",
+      "enabled": true
+    },
+    {
+      "key": "bookingId",
+      "value": "4074",
+      "enabled": true
+    }
+  ]
+}
