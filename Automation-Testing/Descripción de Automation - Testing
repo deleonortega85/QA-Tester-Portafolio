@@ -1,1 +1,8 @@
 AUTOMATION-TESTING
+
+En esta carpeta contiene archivos que corresponde a cada ítem de un tester automation, en el formato .json, los mismos son:
+
+- collection.json
+- environment.json
+- test-run-report.json
+- README.md                    
