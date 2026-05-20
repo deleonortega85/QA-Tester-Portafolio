@@ -1,0 +1,33 @@
+# 📚 Biblioteca API - Automatización con Postman
+
+## 🚀 Descripción
+Este proyecto automatiza pruebas sobre la API pública **Restful Booker** (`https://restful-booker.herokuapp.com`), simulando operaciones CRUD sobre reservas de una biblioteca/hotel.
+
+## ✅ Pruebas incluidas
+- Crear reserva (POST `/booking`)
+- Obtener reserva (GET `/booking/{id}`)
+- Actualizar reserva (PUT `/booking/{id}`)
+- Eliminar reserva (DELETE `/booking/{id}`)
+- Validar que la reserva ya no existe (GET → 404)
+
+## 📊 Resultados
+- Total de pruebas: 14
+- Aprobadas: 14
+- Fallidas: 0
+- Tiempo total: ~1.8 segundos
+
+## 🛠️ Tecnologías
+- Postman
+- Newman (opcional para CLI)
+- JavaScript (tests dentro de Postman)
+
+## 📁 Archivos incluidos
+- `collection.json` → Requests organizados
+- `environment.json` → Variables de entorno
+- `Biblioteca.postman_test-run-report.json` → Reporte detallado de ejecución
+
+## ▶️ Cómo ejecutar
+1. Importar `collection.json` y `environment.json` en Postman.
+2. Ejecutar el collection runner o usar Newman:
+   ```bash
+   newman run collection.json -e environment.json
