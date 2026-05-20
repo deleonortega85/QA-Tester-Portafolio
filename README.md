@@ -23,7 +23,11 @@ Busco una oportunidad como QA Tester donde pueda aportar en la calidad del softw
 - Resumen de Ejecución
 
 ## 📁 Estructura de Automation-Testing
-
+- Collection.json
+- environment.json
+- Biblioteca.postman_test.run.json
+- README (Explicación del Proyecto)
+  
 ## 🛠 Herramientas utilizadas
 
 - **Gestión de pruebas**: Excel / Google Sheets
