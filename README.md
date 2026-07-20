@@ -58,7 +58,7 @@ Estas competencias permiten gestionar conflictos, trabajar en equipo, organizar 
 
 ⚙️ QA Automation (En aprendizaje)
  - Python (bases sólidas en progreso)
- - Automatización con Selenium (en curso)
+ - Automatización con Selenium, Cypress (en curso)
  - Fundamentos de testing automatizado
  - Preparación para pruebas de APIs
 
