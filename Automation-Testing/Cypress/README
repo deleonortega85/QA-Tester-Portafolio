@@ -2,6 +2,16 @@
 
 ## 🚀 Descripción
 
-La carpeta comprimida Saucedemo-test.rar contiene los scripts de Automation en CYPRESS.
+La carpeta comprimida Saucedemo-test.rar contiene los scripts de Automation realizados con la herrramienta de automatización CYPRESS.
 
-Verifica la parte de login (id, password) en los escenarios de datos correctos como incorrectos.
+## ✅ Pruebas incluidas
+- Verifica la parte de login (id, password) en los escenarios de:
+  - Datos correctos 
+  - Datos incorrectos.
+
+## 🛠️ Tecnologías
+- Herrramienta de automatización CYPRESS.
+- JavaScript (se usa para CYPRESS)
+
+## 📁 Archivos incluidos
+- Saucedemo-test.rar
