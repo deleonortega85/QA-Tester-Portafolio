@@ -10,8 +10,12 @@ La carpeta comprimida Saucedemo-test.rar contiene los scripts de Automation real
   - Datos incorrectos.
 
 ## 🛠️ Tecnologías
-- Herrramienta de automatización CYPRESS.
+- Herrramienta de automatización CYPRESS, SELENIUM, POSTMAN.
 - JavaScript (se usa para CYPRESS)
+- Python (se usa en Selenium)
+- Scripts de Postman
 
-## 📁 Archivos incluidos
-- Saucedemo-test.rar
+## 📁 Carpetas incluidas
+- Cypress
+- Selenium
+- Postman
