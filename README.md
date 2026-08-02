@@ -65,9 +65,8 @@ Estas competencias permiten gestionar conflictos, trabajar en equipo, organizar 
 🚀 En constante aprendizaje
 
    Actualmente estoy enfocado en:
-
+   - Buenas prácticas de Testing Manual
    - Automatización de pruebas con Python
-   - Buenas prácticas de testing
    - Mejora continua en QA
 
 ## 📫 Contacto
