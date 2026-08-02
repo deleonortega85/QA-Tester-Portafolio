@@ -1,0 +1,22 @@
+[
+{
+  "usuario": "standard_user",
+  "clave": "secret_sauce"
+},
+{
+  "usuario": "problem_user",
+  "clave": "secret_sauce"
+},
+{
+  "usuario": "performance_glitch_user",
+  "clave": "secret_sauce"
+},
+{
+  "usuario": "error_user",
+  "clave": "secret_sauce"
+},
+{
+  "usuario": "visual_user",
+  "clave": "secret_sauce"
+}
+]

@@ -1,0 +1,19 @@
+{
+  "name": "saucedemo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test1": "cypress open",
+    "test2": "cypress run --spec cypress/e2e/login_ok.cy.js,cypress/e2e/login_fail.cy.js --browser chrome",
+    "test3": "npx cypress run --spec cypress/e2e/login_ok.cy.js cypress/e2e/login_fail.cy.js --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.2",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-real-events": "^1.15.0"
+  }
+}
